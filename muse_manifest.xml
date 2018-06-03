@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="marcyucoco.com" resolutions="1x,2x" timestamp="1527991077707">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="marcyucoco.com" resolutions="1x,2x" timestamp="1527991744213">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_portfolio-item-from-list.css" crc="416532338" ref="example-project-1-list"/>
@@ -132,7 +132,7 @@
       <caption webpage="example-project-1-list" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="70095640" seo="true" mt="1525920018872" redirect="true"/>
+  <file name="index.html" crc="3918963720" seo="true" mt="1527991735921" redirect="true"/>
   <file name="about.html" crc="72379938" seo="true" mt="1527991015447" redirect="true"/>
   <file name="contact.html" crc="4172980236" seo="true" mt="1525920018872" redirect="true"/>
   <file name="portfolio-grid.html" crc="3861604727" seo="true" mt="1527990820143" redirect="true"/>
