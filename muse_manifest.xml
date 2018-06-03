@@ -1,21 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="marcyucoco.com" resolutions="1x,2x" timestamp="1525930805602">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="marcyucoco.com" resolutions="1x,2x" timestamp="1527991077707">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_index-master.css" crc="527673072" ref="about:index:contact"/>
-    <file name="nomq_preview_master_index-master.css" crc="456490199" ref="about:index:contact"/>
-    <file name="master_portfolio-master.css" crc="362479235" ref="portfolio-grid:portfolio-list"/>
-    <file name="portfolio-grid.css" crc="3942950334" ref="portfolio-grid"/>
-    <file name="about.css" crc="4132941180" ref="about"/>
-    <file name="nomq_about.css" crc="69709612" ref="about"/>
-    <file name="portfolio-list.css" crc="487241066" ref="portfolio-list"/>
-    <file name="index.css" crc="308692192" ref="index"/>
-    <file name="nomq_index.css" crc="134486548" ref="index"/>
-    <file name="contact.css" crc="22935811" ref="contact"/>
-    <file name="nomq_contact.css" crc="365995917" ref="contact"/>
     <file name="master_portfolio-item-from-list.css" crc="416532338" ref="example-project-1-list"/>
     <file name="master_portfolio-item-from-grid.css" crc="201377221" ref="example-project-1-grid"/>
+    <file name="master_index-master.css" crc="3989370070" ref="contact:index:about"/>
+    <file name="nomq_preview_master_index-master.css" crc="456490199" ref="contact:index:about"/>
+    <file name="master_portfolio-master.css" crc="362479235" ref="portfolio-list:portfolio-grid"/>
     <file name="example-project-1-list.css" crc="4059397634" ref="example-project-1-list"/>
+    <file name="portfolio-list.css" crc="3910978259" ref="portfolio-list"/>
+    <file name="portfolio-grid.css" crc="68310885" ref="portfolio-grid"/>
+    <file name="contact.css" crc="4142889290" ref="contact"/>
+    <file name="nomq_contact.css" crc="365995917" ref="contact"/>
     <file name="example-project-1-grid.css" crc="257000226" ref="example-project-1-grid"/>
+    <file name="index.css" crc="4268667714" ref="index"/>
+    <file name="nomq_index.css" crc="134486548" ref="index"/>
+    <file name="about.css" crc="43732652" ref="about"/>
+    <file name="nomq_about.css" crc="4063540190" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:portfolio-grid:portfolio-list:example-project-1-grid:example-project-1-list"/>
@@ -55,6 +55,14 @@
     <file name="hypnotize poster mockup321x551.png" crc="221978254" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u4243-8.png" crc="4090703901" ref="about"/>
+    <file name="u4243-8_2x.png" crc="4033458881" ref="about"/>
+    <file name="u4243-82.png" crc="4176160268" ref="about"/>
+    <file name="u4243-8_2x2.png" crc="4207503474" ref="about"/>
+    <file name="u4243-83.png" crc="4166827801" ref="about"/>
+    <file name="u4243-8_2x3.png" crc="78401372" ref="about"/>
+    <file name="u4243-84.png" crc="295342429" ref="about"/>
+    <file name="u4243-8_2x4.png" crc="4243718371" ref="about"/>
     <file name="u1801-4.png" crc="78951325" ref="portfolio-grid:portfolio-list"/>
     <file name="u1801-4_2x.png" crc="4055669108" ref="portfolio-grid:portfolio-list"/>
     <file name="u1796-4.png" crc="437821302" ref="portfolio-grid:portfolio-list"/>
@@ -69,26 +77,32 @@
     <file name="u1718-4_2x.png" crc="3841681383" ref="portfolio-grid:portfolio-list"/>
     <file name="u1719-4.png" crc="133325222" ref="portfolio-grid:portfolio-list"/>
     <file name="u1719-4_2x.png" crc="3937587652" ref="portfolio-grid:portfolio-list"/>
-    <file name="hypnotize poster mockup-crop-u2037.png" crc="3827869364" seo="true" ref="portfolio-grid">
+    <file name="hypnotize poster mockup-crop-u2037.png" crc="3997262402" seo="true" ref="portfolio-grid">
       <caption webpage="portfolio-grid" alt=""/>
     </file>
-    <file name="hypnotize poster mockup-crop-u2037_2x.png" crc="47097602" seo="true" ref="portfolio-grid">
+    <file name="hypnotize poster mockup-crop-u2037_2x.png" crc="506359934" seo="true" ref="portfolio-grid">
       <caption webpage="portfolio-grid" alt=""/>
     </file>
-    <file name="u3852-4.png" crc="515624243" ref="portfolio-grid"/>
-    <file name="u3852-4_2x.png" crc="3918691979" ref="portfolio-grid"/>
-    <file name="u3915-4.png" crc="33786443" ref="portfolio-grid"/>
-    <file name="u3915-4_2x.png" crc="286207194" ref="portfolio-grid"/>
+    <file name="u4137-4.png" crc="467376954" ref="portfolio-grid"/>
+    <file name="u4137-4_2x.png" crc="4198113922" ref="portfolio-grid"/>
+    <file name="u4150-4.png" crc="467376954" ref="portfolio-grid"/>
+    <file name="u4150-4_2x.png" crc="4198113922" ref="portfolio-grid"/>
+    <file name="u4171-4.png" crc="467376954" ref="portfolio-grid"/>
+    <file name="u4171-4_2x.png" crc="4198113922" ref="portfolio-grid"/>
+    <file name="u4174-4.png" crc="467376954" ref="portfolio-grid"/>
+    <file name="u4174-4_2x.png" crc="4198113922" ref="portfolio-grid"/>
     <file name="u3909-3.png" crc="188596954" ref="portfolio-grid"/>
     <file name="u3909-3_2x.png" crc="3770260078" ref="portfolio-grid"/>
-    <file name="u4040-4.png" crc="4196053924" ref="portfolio-list"/>
-    <file name="u4040-4_2x.png" crc="347193284" ref="portfolio-list"/>
-    <file name="hypnotize poster mockup-crop-u4033.png" crc="3886197444" seo="true" ref="portfolio-list">
+    <file name="u4040-4.png" crc="479886070" ref="portfolio-list"/>
+    <file name="u4040-4_2x.png" crc="4134694362" ref="portfolio-list"/>
+    <file name="hypnotize poster mockup-crop-u4033.png" crc="3905147527" seo="true" ref="portfolio-list">
       <caption webpage="portfolio-list" alt=""/>
     </file>
-    <file name="hypnotize poster mockup-crop-u4033_2x.png" crc="42950588" seo="true" ref="portfolio-list">
+    <file name="hypnotize poster mockup-crop-u4033_2x.png" crc="4083941482" seo="true" ref="portfolio-list">
       <caption webpage="portfolio-list" alt=""/>
     </file>
+    <file name="u4234-4.png" crc="479886070" ref="portfolio-list"/>
+    <file name="u4234-4_2x.png" crc="4134694362" ref="portfolio-list"/>
     <file name="u3210-4.png" crc="305097446" ref="example-project-1-grid"/>
     <file name="u3210-4_2x.png" crc="320193999" ref="example-project-1-grid"/>
     <file name="u3211_states.png" crc="3782530386" ref="example-project-1-grid"/>
@@ -97,10 +111,10 @@
     <file name="u3211_states-r_2x.png" crc="4233055283" ref="example-project-1-grid"/>
     <file name="u4112-4.png" crc="4142373512" ref="example-project-1-grid"/>
     <file name="u4112-4_2x.png" crc="3828528738" ref="example-project-1-grid"/>
-    <file name="hypnotize poster mockup-crop-u4102.png" crc="4072590669" seo="true" ref="example-project-1-grid">
+    <file name="hypnotize poster mockup-crop-u4102.png" crc="36231702" seo="true" ref="example-project-1-grid">
       <caption webpage="example-project-1-grid" alt=""/>
     </file>
-    <file name="hypnotize poster mockup-crop-u4102_2x.png" crc="70378867" seo="true" ref="example-project-1-grid">
+    <file name="hypnotize poster mockup-crop-u4102_2x.png" crc="4016112776" seo="true" ref="example-project-1-grid">
       <caption webpage="example-project-1-grid" alt=""/>
     </file>
     <file name="u3274-4.png" crc="305097446" ref="example-project-1-list"/>
@@ -111,18 +125,18 @@
     <file name="u3275_states-r_2x.png" crc="4233055283" ref="example-project-1-list"/>
     <file name="u4117-4.png" crc="4142373512" ref="example-project-1-list"/>
     <file name="u4117-4_2x.png" crc="3828528738" ref="example-project-1-list"/>
-    <file name="hypnotize poster mockup-crop-u4115.png" crc="4072590669" seo="true" ref="example-project-1-list">
+    <file name="hypnotize poster mockup-crop-u4115.png" crc="36231702" seo="true" ref="example-project-1-list">
       <caption webpage="example-project-1-list" alt=""/>
     </file>
-    <file name="hypnotize poster mockup-crop-u4115_2x.png" crc="70378867" seo="true" ref="example-project-1-list">
+    <file name="hypnotize poster mockup-crop-u4115_2x.png" crc="4016112776" seo="true" ref="example-project-1-list">
       <caption webpage="example-project-1-list" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="1392668" seo="true" mt="1525920018872" redirect="true"/>
-  <file name="about.html" crc="3976719565" seo="true" mt="1525920018872" redirect="true"/>
-  <file name="contact.html" crc="141435488" seo="true" mt="1525920018872" redirect="true"/>
-  <file name="portfolio-grid.html" crc="4266661835" seo="true" mt="1525930764481" redirect="true"/>
-  <file name="portfolio-list.html" crc="4051657999" seo="true" mt="1525930771626" redirect="true"/>
-  <file name="example-project-1-grid.html" crc="4140482735" seo="true" mt="1525930720116" redirect="true"/>
-  <file name="example-project-1-list.html" crc="272739004" seo="true" mt="1525930710317" redirect="true"/>
+  <file name="index.html" crc="70095640" seo="true" mt="1525920018872" redirect="true"/>
+  <file name="about.html" crc="72379938" seo="true" mt="1527991015447" redirect="true"/>
+  <file name="contact.html" crc="4172980236" seo="true" mt="1525920018872" redirect="true"/>
+  <file name="portfolio-grid.html" crc="3861604727" seo="true" mt="1527990820143" redirect="true"/>
+  <file name="portfolio-list.html" crc="4160377823" seo="true" mt="1527990903388" redirect="true"/>
+  <file name="example-project-1-grid.html" crc="12081832" seo="true" mt="1525930720116" redirect="true"/>
+  <file name="example-project-1-list.html" crc="4038276447" seo="true" mt="1525930710317" redirect="true"/>
 </manifest>
